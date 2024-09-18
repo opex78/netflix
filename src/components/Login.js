@@ -66,7 +66,6 @@ const Login = () => {
                     // Signed in 
                     const user = userCredential.user;
                     console.log("sign in is successful", user)
-                    navigate("/browse")
                 })
                 .catch((error) => {
                     const errorCode = error.code;

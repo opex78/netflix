@@ -19,6 +19,11 @@
 - Add hardcoded values in constants file
 - Register on TMDB API and create app => get access token and API Key
 - Get data from TMDB API now playing movies list
+- Build secondary component
+- Build Movie list
+- Build Movie card
+- TMDB Image CDN API
+
 
 # Features
 

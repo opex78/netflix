@@ -7,3 +7,5 @@ export const API_OPTIONS = {
         Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZGRkNWZkOGNhYzBhYTJkMTU1ZTYyNzlmZTZkNzEzNCIsIm5iZiI6MTcyNjMyNDAzOS4yMzIyMjQsInN1YiI6IjY2ZTRlODYwZjNkM2Y4YmZmOTZkNWQzNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.XcPm9hlCFvNTpHTKJ58zyyk-bFrzeC-oll8eeE0k6Fc'
     }
 };
+export const POPULAR_MOVIE_API = 'https://api.themoviedb.org/3/movie/popular?language=en-US&page=1'
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/"
